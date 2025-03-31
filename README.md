@@ -3,41 +3,43 @@ Repo for SIET AWS Assignments
 
 # 1 ETC
 
-## Please add a screenshot of your ETC with 2500+ points, ensuring that your username is clearly visible.
-> Replace this line while adding the screenshot / answer
+## Screenshot of my ETC with 2500+ points, ensuring that my username is clearly visible.
+> ![image](https://github.com/user-attachments/assets/1ff12507-d015-49fc-9d67-5a5b17382a04)
+
 
 
 # 2 AWS Cloud Quest Badge
 
-## Please add a screenshot of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
+## Screenshot of my credly page screenshot containing Cloud Quest: Cloud Practitioner
+> ![image](https://github.com/user-attachments/assets/c2a73e0c-733c-495b-b5ce-e33a4f7924a1)
 
-## Please add a URL of your credly page screenshot containing Cloud Quest: Cloud Practitioner
-> Replace this line while adding the screenshot / answer
 
+## URL of my credly page screenshot containing Cloud Quest: Cloud Practitioner
+> URL: https://www.credly.com/users/harshad-d03082005
 
 # 3 AWS 3 Tier Architecture Implementation
 
-## Please add the screenshot of the final page of the AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
+## Screenshot of the final page of the AWS 3 Tier Architecture Implementation
+> ![image](https://github.com/user-attachments/assets/e7ff5bfa-2ffa-4b41-b2a8-790232bb4818)
 
-## Please add a URL of your dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
-> Replace this line while adding the screenshot / answer
+
+## URL of my dev.to blog containing the screenshots of AWS 3 Tier Architecture Implementation
+> URL: https://dev.to/harshad_dpt/aws-three-tier-architecture-3kki
 
 
 # 4 AWS 101 Workshop
-URL: https://catalog.workshops.aws/aws101/en-US
+> URL: https://catalog.workshops.aws/aws101/en-US
 
-## Please add the screenshot of the final page of the AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
+## Screenshot of the final page of the AWS 101 Workshop
+> ![image](https://github.com/user-attachments/assets/f988232e-09e2-4d70-b0ec-ae18bb24051a)
 
-## Please add a URL of your dev.to blog containing the screenshots of AWS 101 Workshop
-> Replace this line while adding the screenshot / answer
+## URL of my dev.to blog containing the screenshots of AWS 101 Workshop
+> URL: https://dev.to/harshad_dpt/embarking-on-cloud-computing-my-journey-through-the-aws-101-workshop-4bbf
 
 
 # 5 AWS Service
 
-## Please add a URL of your dev.to blog containing the details of the AWS service that you took to explore
-> Replace this line while adding the screenshot / answer
+## URL of my dev.to blog containing the details of the AWS service that i took to explore
+> URL: https://dev.to/harshad_dpt/amazon-emr-2ij1
 
 
